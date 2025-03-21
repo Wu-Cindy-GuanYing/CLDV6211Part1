@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="RegistrationDBContext-Web.config Connection String" description="RegistrationDBContext Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:registrationdb123.database.windows.net,1433;Initial Catalog=RegistrationDB;Persist Security Info=False;User ID=wu;Password=Cindyhere03;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part1\\StudentReg_Part2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='RegistrationDBContext']/@connectionString" />
+  </parameter>
+</parameters>

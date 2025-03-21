@@ -1,0 +1,7 @@
+C:\Users\lab_services_student\Desktop\CLDV6211Part1\StudentReg\obj\Release\net9.0\PubTmp\Out\StudentReg.exe
+C:\Users\lab_services_student\Desktop\CLDV6211Part1\StudentReg\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\lab_services_student\Desktop\CLDV6211Part1\StudentReg\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\Users\lab_services_student\Desktop\CLDV6211Part1\StudentReg\obj\Release\net9.0\PubTmp\Out\StudentReg.dll
+C:\Users\lab_services_student\Desktop\CLDV6211Part1\StudentReg\obj\Release\net9.0\PubTmp\Out\StudentReg.deps.json
+C:\Users\lab_services_student\Desktop\CLDV6211Part1\StudentReg\obj\Release\net9.0\PubTmp\Out\StudentReg.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\CLDV6211Part1\StudentReg\obj\Release\net9.0\PubTmp\Out\StudentReg.pdb
