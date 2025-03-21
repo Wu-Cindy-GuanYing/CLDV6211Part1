@@ -1,3 +1,5 @@
 SQL Database: https://portal.azure.com/#@advtechonline.onmicrosoft.com/asset/SqlAzureExtension/Database/subscriptions/e7fb52c8-7d9f-46c3-8c6b-b2c75d01510c/resourceGroups/cindy/providers/Microsoft.Sql/servers/registrationdb123/databases/RegistrationDB
 
 Web URL: https://studentregistration-cgcmcucagncbcgck.canadacentral-01.azurewebsites.net/
+
+GitHub: https://github.com/Wu-Cindy-GuanYing/CLDV6211Part1
